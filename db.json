@@ -3,56 +3,56 @@
     "id": 1,
     "name": "The Shawshank Redemption",
     "year":1994,
-    "imdb":9.2,
+    "imdb":"9.2",
 	"desc":"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
   },
   {
     "id": 2,
     "name": "The Godfather"
      "year":1972,
-    "imdb":9.2,
+    "imdb":"9.2",
 	"desc":"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son"
   },
   {
     "id": 3,
     "name": "The Godfather: Part II"
 	"year":1974,
-    "imdb":9.0,
+    "imdb":"9.0",
 	"desc":"The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
   },
   {
     "id": 4,
     "name": "The Dark Knight"
 	"year":2008,
-    "imdb":9.0,
+    "imdb":"9.0",
 	"desc","When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice."
   },
   {
     "id": 5,
     "name": "12 Angry Men"
 	"year":1957,
-    "imdb":8.9,
+    "imdb":"8.9",
 	"desc","A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence."
   },
   {
     "id": 6,
     "name": "Schindler's List",
 	"year":1993,
-    "imdb":8.9,
+    "imdb":"8.9",
 	"desc":"In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans."
   },
   {
     "id": 7,
     "name": "The Lord of the Rings: The Return of the King",
 	"year":2003,
-    "imdb":8.9,
+    "imdb":"8.9",
 	"desc","Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
   },
   {
     "id": 8,
     "name": "Pulp Fiction",
 	"year":1994,
-    "imdb":8.9,
+    "imdb":"8.9",
 	"desc","The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
   }
 ]
